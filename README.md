@@ -1,2 +1,1 @@
-# CSC468
-CSC468 repo
+# csc603cloud
